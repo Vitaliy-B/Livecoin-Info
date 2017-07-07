@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Livecoin Info</string>
+
+    <string name="text_data_not_loaded">Data NOT loaded</string>
+    <string name="text_data_loaded">Data loaded</string>
+    <string name="text_load_data">Load data</string>
+    <string name="text_choose_data">Choose data</string>
+    <string name="text_loading_data">Loading data</string>
+    <string name="text_empty">empty</string>
+    <string name="text_cur_pair_not_available">Currency pair is not available for </string>
+    <string name="text_personal">Personal</string>
+    <string name="text_exchange">Exchange</string>
+    <string name="text_usd">USD</string>
+    <string name="text_bitcoin">Bitcoin</string>
+    <string name="text_0usd">$0</string>
+    <string name="text_0btc">0 BTC</string>
+
+    <string name="text_dlg_chooser_title">Choose data source</string>
+    <string name="text_dlg_chooser_msg">Please choose data source</string>
+    <string name="text_dlg_btn_dload">Download form network</string>
+    <string name="text_dlg_btn_use_local">Use build-in</string>
+
+    <string name="err_cant_show_dlg">Can\'t show dialog</string>
+    <string name="err_cant_proc_data">Can\'t process data</string>
+
+</resources>
